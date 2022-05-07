@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 06 May 2022 01:31:07 GMT
+// Generated on Sat, 07 May 2022 00:00:33 GMT
 
 
 import UIKit
@@ -17,6 +17,9 @@ public class StyleDictionary {
     public static let breakpointsLg = 1280
     public static let breakpointsMd = 1024
     public static let breakpointsSm = 768
+    public static let colorBlue500 = UIColor(red: 0.000, green: 0.647, blue: 1.000, alpha: 1)
+    public static let colorBrandPrimary = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorBrandSecondary = UIColor(red: 0.600, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorColorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
     public static let colorColorsMultipleFills1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let colorColorsRefBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
@@ -25,18 +28,15 @@ public class StyleDictionary {
     public static let colorColorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
     public static let colorDarkBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorLightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let effectBorderTop = [object Object]
-    public static let effectBorderTopAndBottom0 = [object Object]
-    public static let effectBorderTopAndBottom1 = [object Object]
-    public static let effectButtonSegmentLeft0 = [object Object]
-    public static let effectButtonSegmentLeft1 = [object Object]
-    public static let effectButtonSegmentLeft2 = [object Object]
-    public static let effectButtonSegmentLeft3 = [object Object]
-    public static let effectButtonSegmentMiddle0 = [object Object]
-    public static let effectButtonSegmentMiddle1 = [object Object]
-    public static let effectButtonSegmentMiddle2 = [object Object]
-    public static let effectButtonSegmentMiddle3 = [object Object]
-    public static let effectDividerBottom = [object Object]
+    public static let colorRed100 = UIColor(red: 0.200, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorRed200 = UIColor(red: 0.400, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorRed300 = UIColor(red: 0.600, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorRed400 = UIColor(red: 0.800, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorRed500 = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorRed600 = UIColor(red: 1.000, green: 0.200, blue: 0.200, alpha: 1)
+    public static let colorRed700 = UIColor(red: 1.000, green: 0.400, blue: 0.400, alpha: 1)
+    public static let colorRed800 = UIColor(red: 1.000, green: 0.600, blue: 0.600, alpha: 1)
+    public static let colorRed900 = UIColor(red: 1.000, green: 0.800, blue: 0.800, alpha: 1)
     public static let effectDropShadowSingle = [object Object]
     public static let effectInnerShadowMultiple0 = [object Object]
     public static let effectInnerShadowMultiple1 = [object Object]
@@ -47,13 +47,11 @@ public class StyleDictionary {
     public static let fontBodyItalic = "[object Object]"
     public static let fontBodyMediumExtendedItalic = "[object Object]"
     public static let fontBodySuper = "[object Object]"
-    public static let gradientButtonBorderGradient = [object Object]
     public static let gradientGradientMultiple0 = [object Object]
     public static let gradientGradientMultiple1 = [object Object]
     public static let gradientGradientMultiple2 = [object Object]
     public static let gradientGradientMultiple3 = [object Object]
     public static let gradientGradientSingleWithMultipleColorStops = [object Object]
-    public static let gradientTextInputBorder = [object Object]
     public static let gridMultiple0 = [object Object]
     public static let gridMultiple1 = [object Object]
     public static let gridMultiple2 = [object Object]
@@ -63,14 +61,6 @@ public class StyleDictionary {
     public static let gridMultiple6 = [object Object]
     public static let gridMultiple7 = [object Object]
     public static let gridSingle = [object Object]
-    public static let gridSpacingPadding160 = [object Object]
-    public static let gridSpacingPadding161 = [object Object]
-    public static let gridSpacingPadding162 = [object Object]
-    public static let gridSpacingPadding163 = [object Object]
-    public static let gridSpacingPadding200 = [object Object]
-    public static let gridSpacingPadding201 = [object Object]
-    public static let gridSpacingPadding202 = [object Object]
-    public static let gridSpacingPadding203 = [object Object]
     public static let motionDissolve = [object Object]
     public static let motionMoveIn = [object Object]
     public static let motionPush = [object Object]
