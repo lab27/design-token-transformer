@@ -23,6 +23,18 @@
   --color-colors-special-characters-nderung: #3456af;
   --color-light-background: #ffffff;
   --color-dark-background: #000000;
+  --color-red-100: #330000;
+  --color-red-200: #660000;
+  --color-red-300: #990000;
+  --color-red-400: #cc0000;
+  --color-red-500: #ff0000;
+  --color-red-600: #ff3333;
+  --color-red-700: #ff6666;
+  --color-red-800: #ff9999;
+  --color-red-900: #ffcccc;
+  --color-brand-primary: #ff0000;
+  --color-brand-secondary: #990000;
+  --color-blue-500: #00a5ff;
   --typography-body-h3-font-size: 20px;
   --typography-body-h3-text-decoration: none;
   --typography-body-h3-font-family: Akzidenz-Grotesk Pro;
